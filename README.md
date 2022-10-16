@@ -1,4 +1,8 @@
 ## MITx Quantum Mechanics Notes
+
+Notes link:
+https://cst0313.github.io/MITx-QuantumMechanics/
+
 This course can be found at
 https://mitxonline.mit.edu/courses/course-v1:MITxT+8.04x/
 
